@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C89146F72B5844DB00DAF132 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89146F62B5844DB00DAF132 /* CustomButtonView.swift */; };
 		C89197AE2B5710B1007D2FDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89197AD2B5710B1007D2FDC /* AppDelegate.swift */; };
 		C89197B02B5710B1007D2FDC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89197AF2B5710B1007D2FDC /* SceneDelegate.swift */; };
 		C89197B22B5710B1007D2FDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89197B12B5710B1007D2FDC /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C89146F62B5844DB00DAF132 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 		C89197AA2B5710B1007D2FDC /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C89197AD2B5710B1007D2FDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C89197AF2B5710B1007D2FDC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				C89197AF2B5710B1007D2FDC /* SceneDelegate.swift */,
 				C89197B12B5710B1007D2FDC /* ViewController.swift */,
 				C89197B32B5710B2007D2FDC /* Main.storyboard */,
+				C89146F62B5844DB00DAF132 /* CustomButtonView.swift */,
 				C89197B62B5710B8007D2FDC /* Assets.xcassets */,
 				C89197B82B5710B8007D2FDC /* LaunchScreen.storyboard */,
 				C89197BB2B5710B8007D2FDC /* Info.plist */,
@@ -261,6 +264,7 @@
 				C89197B22B5710B1007D2FDC /* ViewController.swift in Sources */,
 				C89197AE2B5710B1007D2FDC /* AppDelegate.swift in Sources */,
 				C89197B02B5710B1007D2FDC /* SceneDelegate.swift in Sources */,
+				C89146F72B5844DB00DAF132 /* CustomButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
